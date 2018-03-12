@@ -1,0 +1,14 @@
+{
+    "name": "anis/lollypop",
+    "description": "a simple package",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Anis Anis",
+            "email": "anis@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
+ 
